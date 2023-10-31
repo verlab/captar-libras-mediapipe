@@ -3,8 +3,6 @@ This project focuses on running the mediapipe ML model and transforming its outp
 
 ## Run with Docker
 
-### Installation
-
 - Clone this repository
 - Build the Docker image from the repository's root path: 
 ```
